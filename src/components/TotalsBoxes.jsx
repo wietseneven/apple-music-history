@@ -71,7 +71,7 @@ class TotalsBoxes extends Component {
 
         var div = <div className="years">
             {totalsBox}
-            {highestDay}
+            {/*{highestDay}*/}
             {totalSongs}
         </div>
 
